@@ -10,3 +10,5 @@ decr--;
 
 console.log(incr);
 console.log(decr);
+
+let erte = 3;
